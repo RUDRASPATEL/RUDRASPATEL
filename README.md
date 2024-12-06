@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RUDRA S PATEL</h1>
+<h1 align="center">Hi 👋, I'm Rudra S Patel</h1>
 <h3 align="center">A Student chasing his dream.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudraspatel&label=Profile%20views&color=0e75b6&style=flat" alt="rudraspatel" /> </p>
